@@ -1,0 +1,1 @@
+This Repo contains all the code files created as a part of live sessions of course 'Introduction to Machine Learning with Python Programming' under my guidance and conducted by iHUB DIvyaSampark, IIT Roorkee and RBPL from 11th September 2023 to 20th October 2023.
